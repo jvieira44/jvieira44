@@ -1,6 +1,5 @@
 # 💫 About Me:
 👋 Hi, i'm Júlio Vieira<br>👤 I'm a beginner systems developer<br>🎓 Etec Vasco Antônio Venchiarutti<br>💻 1 º Ano C3 - 2026/2028<br><br>
-
 <img src="./assets/logo_animado_transparente.gif" width="200">
 
 ## 🌐 Socials:
@@ -16,3 +15,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=jvieira44&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=jvieira44&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jvieira44&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+Thanks for visiting my profile!
