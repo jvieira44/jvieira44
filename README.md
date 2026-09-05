@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, i'm Júlio Vieira<br>👤 I'm a beginner systems developer<br>🎓 Etec Vasco Antônio Venchiarutti<br>💻 1 º Ano C3 - 2026/2028<br><br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jvieira4._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliovie.dev@outlook.com) 
 
