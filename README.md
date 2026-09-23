@@ -1,7 +1,5 @@
 # 💫 About Me: 
 
-<img align="right" src="./assets/logo_oscilacao_forte.gif" width="150">
-
 👋 Hi, i'm Júlio Vieira<br>👤 I'm a beginner systems developer<br>🎓 Etec Vasco Antônio Venchiarutti<br>💻 1 º Ano C3 - 2026/2028<br><br>
 
 ## 🌐 Socials:
